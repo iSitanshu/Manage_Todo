@@ -1,0 +1,4 @@
+Roadmap go through the process of making this projec
+
+We know that in order to make the website working we need to communicate the two components
+Ultimately Context API use honi hi hai too haam bana lenge pehle hi 
