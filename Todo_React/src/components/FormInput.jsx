@@ -12,7 +12,7 @@ const FormInput = () => {
         addTodo({todo,completed: false})
         setTodo("")
     }
-    
+
   return (
     <>
     <div className='flex justify-center items-center text-black'>
